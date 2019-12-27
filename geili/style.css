@@ -15,7 +15,6 @@
 .content_region{
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
 }
 .left_box div {
     border: 1px solid #4f79f7;
