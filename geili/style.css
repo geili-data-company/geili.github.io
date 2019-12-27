@@ -10,7 +10,7 @@
 }
 .left_box {
     display: flex;
-    margin: 5px 20px;
+    margin: 1px 20px;
 }
 .content_region{
     display: flex;
@@ -34,7 +34,7 @@
 }
 
 .left_box div:nth-child(3) {
-    width: 161px;
+    width: 170px;
 }
 
 .red {
